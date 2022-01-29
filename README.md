@@ -13,7 +13,7 @@ Every day is totally different. He fixed layout bugs and optimized the code base
 
 
 
-<a href="https://www.buymeacoffee.com/harunkor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108.5px !important;" ></a>
+<a href="https://www.buymeacoffee.com/harunkor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=8155797&left_color=silver&right_color=blue)
