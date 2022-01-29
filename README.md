@@ -8,6 +8,8 @@ Every day is totally different. He fixed layout bugs and optimized the code base
 
 ### JOB REQUIREMENTS  &  SKILLS
 
+RESTful, JSON, SOAP, XML, Kotlin, MVP, MVVM, MVI(Model-View-Intent), Dagger/Hilt, Git, 
+
 
 [![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=harunkor)](https://github.com/anuraghazra/github-readme-stats)
 
