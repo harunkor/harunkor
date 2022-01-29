@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harun.
 
 📆 Experienced in Android since 2014\
-🖥️ Aspired by learning something new
+🖥️ Aspired by learning something new\
 Give mentorship traning
 
 
