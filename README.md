@@ -14,7 +14,7 @@ Every day is totally different. He fixed layout bugs and optimized the code base
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=8155797&left_color=silver&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=8155797&left_color=silver&right_color=blue)
                 
 
 
