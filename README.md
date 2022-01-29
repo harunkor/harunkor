@@ -10,7 +10,7 @@ Every day is totally different. He fixed layout bugs and optimized the code base
 
 ### JOB REQUIREMENTS  &  SKILLS
 
-RESTful, JSON, SOAP, XML, Kotlin, MVP, MVVM, MVI(Model-View-Intent), Dagger/Hilt, Git, Jenkins, Gradle, Agile, Scrum, Clean Code & Android Clean Architecture,  Solid OOP design principles, Code refactoring, RxJava/Android, Retrofit 2, Glide, Picasso, Android Jetpack Foundation, Android Jetpack Behavior, Android Jetpack UI
+RESTful, JSON, SOAP, XML, Kotlin, MVP, MVVM, MVI(Model-View-Intent), Dagger/Hilt, Git, Jenkins, Gradle, Agile, Scrum, Clean Code & Android Clean Architecture,  Solid OOP design principles, Code refactoring, RxJava/Android, Retrofit 2, Glide, Picasso, Android Jetpack Foundation, Android Jetpack Behavior, Android Jetpack UI, 
 Android Jetpack Architecture 
 
 
