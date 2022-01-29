@@ -8,7 +8,7 @@ Every day is totally different. He fixed layout bugs and optimized the code base
 
 
 
-[![Harun's Github stats](https://github-readme-stats.vercel.app/api/wakatime?username=harunkor)](https://github.com/anuraghazra/github-readme-stats)
+[![Harun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harunkor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
