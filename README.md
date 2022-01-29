@@ -2,7 +2,8 @@
 
 📆 Experienced in Android since 2014\
 🖥️ Aspired by learning something new\
-Give mentorship traning
+Gives mentoring trainer
+
 
 
 Harun is currently a Senior Android Developer at LVS R&D , where he does all process of Android Development.
