@@ -8,14 +8,13 @@ Harun is currently a Senior Android Developer at LVS R&D , where he does all pro
 Every day is totally different. He fixed layout bugs and optimized the code base of a hugely popular sport app in America in a short time. He has been mentoring for a lot of starter and junior developers for 3 years. It’s hectic and challenging, but he loves it! He is always eager to learn new technologies and develop solutions based on them. When he is not coding, you will find him traveling the world, biking, swimming, watching films, fishing, hiking and shopping.
 
 
-### JOB REQUIREMENTS  &  SKILLS
+## JOB REQUIREMENTS  &  SKILLS
 
-RESTful, JSON, SOAP, XML, Kotlin, MVP, MVVM, MVI(Model-View-Intent), Dagger/Hilt, Git, Jenkins, Gradle, Agile, Scrum, Clean Code & Android Clean Architecture,  Solid OOP design principles, Code refactoring, RxJava/Android, Retrofit 2, Glide, Picasso, Android Jetpack Foundation, Android Jetpack Behavior, Android Jetpack UI, 
+RESTful, JSON, SOAP, XML, [Kotlin](https://github.com/harunkor?tab=repositories&q=&type=&language=kotlin&sort=), MVP, MVVM, MVI(Model-View-Intent), Dagger/Hilt, Git, Jenkins, Gradle, Agile, Scrum, Clean Code & Android Clean Architecture,  Solid OOP design principles, Code refactoring, RxJava/Android, Retrofit 2, Glide, Picasso, Android Jetpack Foundation, Android Jetpack Behavior, Android Jetpack UI, 
 Android Jetpack Architecture 
 
 
 [![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=harunkor)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
