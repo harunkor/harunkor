@@ -3,6 +3,9 @@
 📆 Experienced in Android since 2014\
 🖥️ Aspired by learning something new
 
+Harun is currently a Senior Android Developer at LVS R&D , where he does all process of Android Development.
+Every day is totally different. He fixed layout bugs and optimized the code base of a hugely popular sport app in America in a short time. He has been mentoring for a lot of starter and junior developers for 3 years. It’s hectic and challenging, but he loves it!
+
 
 
 
