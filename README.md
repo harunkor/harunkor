@@ -1,4 +1,14 @@
-### Hi 👋, I'm Harun.
+# Hi 👋, I'm Harun.
+
+📆 Experienced in Android since 2014
+🖥️ Aspired by learning something new
+
+
+
+
+   
+
+
 
 <!--
 **harunkor/harunkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
