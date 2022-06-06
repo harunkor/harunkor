@@ -11,7 +11,7 @@ Every day is totally different. He fixed layout bugs and optimized the code base
 ## JOB REQUIREMENTS  &  SKILLS
 
 RESTful, JSON, SOAP, XML, [Kotlin](https://github.com/harunkor?tab=repositories&q=&type=&language=kotlin&sort=), MVP, MVVM, MVI(Model-View-Intent), Dagger/Hilt, Git, Jenkins, Gradle, Agile, Scrum, Clean Code & Android Clean Architecture,  Solid OOP design principles, Code refactoring, RxJava/Android, Retrofit 2, Glide, Picasso, Android Jetpack Foundation, Android Jetpack Behavior, Android Jetpack UI, 
-Android Jetpack Architecture 
+Android Jetpack Architecture ([Room] (https://github.com/harunkor/RoomDatabaseSample)  )
 
 
 [![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=harunkor)](https://github.com/anuraghazra/github-readme-stats)
