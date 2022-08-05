@@ -4,8 +4,16 @@
 🖥️ Aspired by learning something new\
 👨‍🏫 Gives mentoring trainer
 
-Harun is currently a Senior Android Developer at LVS R&D , where he does all process of Android Development.
-Every day is totally different. He fixed layout bugs and optimized the code base of a hugely popular sport app in America in a short time. He has been mentoring for a lot of starter and junior developers for 3 years. It’s hectic and challenging, but he loves it! He is always eager to learn new technologies and develop solutions based on them. When he is not coding, you will find him traveling the world, biking, swimming, watching films, fishing, hiking and shopping.
+Senior Android Developer with over 8 years of experience in designing cutting-edges application that deliver awesome experiences for users.
+
+Harun is currently a Senior Android Developer at Mobven.
+
+When he was at LVS R&D ;
+Every day is totally different. He fixed layout bugs and optimized the code base of a hugely popular sport app in America in a short time. He has been mentoring for a lot of starter and junior developers for 3 years. It’s hectic and challenging, but he loves it!
+In addition to his experience, he hold a Bachelor of Computer Engineering and have strong Java, XML, Android SDK (debug, compile, release), Kotlin, Android Studio, RESTful APIs, Design pattern (MVVM),Android Clean Architecture, Code Refactoring, OOP, SOAP, JSON, Google policies and publication processes, JUnit, Mockito, Use of git services (commit, push, branch …), Android Architecture Components and UI/UX implementation experience. He is always eager to learn new technologies and develop solutions based on them. When he is not coding, you will find him traveling the world, biking, swimming, watching films, fishing, hiking and shopping.
+
+Thank you very much for your time. If you find interesting, you can contact with him.
+Happy Coding!
 
 
 ## JOB REQUIREMENTS  &  SKILLS
