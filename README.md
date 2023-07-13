@@ -6,7 +6,7 @@
 
 Senior Android Developer with over 8 years of experience in designing cutting-edges application that deliver awesome experiences for users.
 
-Harun is currently a Senior Android Developer at Mobven.
+Harun is currently a Senior Android Developer at Gateway.
 
 When he was at LVS R&D ;
 Every day is totally different. He fixed layout bugs and optimized the code base of a hugely popular sport app in America in a short time. He has been mentoring for a lot of starter and junior developers for 3 years. It’s hectic and challenging, but he loves it!
