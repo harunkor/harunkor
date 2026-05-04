@@ -23,7 +23,7 @@ data class Developer(
     val experience: String = "8+ years",
     val location: String = "Istanbul, TR",
     val education: String = "B.Sc. Computer Engineering",
-    val mentored: String = "50+ developers",
+    val mentored: String = "300+ developers",
     val androidSince: Int = 2014
 )
 ```
@@ -100,7 +100,7 @@ I'm a Senior Android Developer with **8+ years** of experience building cutting-
 |---|---|
 | 🏢 **Current** | Senior Android Developer @ Gateway |
 | 📅 **Experience** | 8+ years (Android since 2014) |
-| 👨‍🏫 **Mentorship** | 50+ junior developers over 3 years |
+| 👨‍🏫 **Mentorship** | 300+ junior developers over 3 years |
 | 🎓 **Education** | B.Sc. Computer Engineering |
 | 🌍 **Location** | Istanbul, Turkey |
 
