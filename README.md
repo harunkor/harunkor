@@ -28,7 +28,7 @@ data class Developer(
 )
 ```
 
-I'm a Senior Android Developer with **8+ years** of experience building cutting-edge Android applications. Currently at **Gateway**, previously at **LVS R&D** where I optimized a hugely popular sports app in the US and mentored developers for 3 years. Always eager to learn new technologies and share knowledge.
+Senior Android Developer with **10+ years of experience** crafting high-performance, production-grade Android applications. Currently building at **Gateway**, with a track record across **fintech** (ZiraatPay), **fitness** (MAC+), **e-government** (E-Visa), and **KYC** platforms. Passionate about **Clean Architecture**, **Jetpack Compose**, and **Kotlin Multiplatform**. Proud instructor and mentor at **6+ national bootcamps** including Getir, Trendyol, and Akbank programs.
 
 ---
 
